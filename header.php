@@ -12,7 +12,7 @@
             <li>
                 <a><i class="fas fa-phone-square"></i>+2347038445940</a>
             </li>
-            <li><a href="javascript:void(0)"><i class="far fa-envelope"></i>info@philipidehenrefoundation.org</a></li>
+            <li><a href="javascript:void(0)"><i class="far fa-envelope"></i>info@philipidehenrefoundation.com</a></li>
             
             <li><a href="donation.php"><i class="fas fa-hand-holding-dollar"></i>Donate</a></li>
             <li><a href="javascript:void(0)" class="showRequest">Join us<i class="fas fa-hand-fist"></i></a></li>

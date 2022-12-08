@@ -32,7 +32,7 @@
                         <i class="fas fa-envelope-open-text"></i>
                         <div class="addtext">
                             <h4>Email:</h4>
-                            <p>info@philipidehenrefoundation.org</p>
+                            <p>info@philipidehenrefoundation.com</p>
                         </div>
                     </div>
                     <div class="socialMedia">
